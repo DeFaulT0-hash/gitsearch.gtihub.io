@@ -1,2 +1,0 @@
-# search
-Intern_task
